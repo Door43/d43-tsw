@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsw:home|Door43 (tsw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsw|d43-tsw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsw/archive/master.zip|d43-tsw.zip]]
+
+**Recent Changes**
+{{changes>ns = tsw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsw|Ethnologue data]]
+
